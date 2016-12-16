@@ -1,2 +1,3 @@
 # Html5-webSoket-php-chatsever
 基于html5的webSoket技术+php搭建的小型chatServer（附源码）
+最近在公司利用直播间搭建一个图文直播间时正好要用到chatsever，研究了一下html5的websocket 实现了双向通信，根据前人的经验折腾了几天弄了个聊天室，实现了发送图片，发送QQ表情，群聊私聊等功能，特地分享给各位新手参考学习，大牛可以忽略。
